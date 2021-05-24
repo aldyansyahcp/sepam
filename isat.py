@@ -43,7 +43,7 @@ def main():
             else:
                 exit()
     except KeyboardInterrupt:
-            print(f'{赤い}\nCTRL+C EXITED!')
+            print(f"{赤い}\nCTRL+C EXITED!")
 
-if __name__=='__main__':
+if __name__=="__main__":
 	main()
