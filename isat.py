@@ -1,7 +1,4 @@
-#Spam Tools Indosat OOreedOO
-#From Yutixcode import nadaku
-#run 'v
-#coded aldyansyahcp recoded
+#ordinaryty
 import time, json, os
 import requests as req
 from bs4 import BeautifulSoup as bs
